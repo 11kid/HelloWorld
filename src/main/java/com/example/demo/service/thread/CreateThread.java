@@ -1,4 +1,4 @@
-package com.example.demo.service.impl;
+package com.example.demo.service.thread;
 
 public class CreateThread implements Runnable{
     public static void main(String[] args) {
